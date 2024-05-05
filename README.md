@@ -1,6 +1,5 @@
 ## Olá, eu sou Pedro Henrique 👋🏽
 
-<img width=100% src="./imagem/LinkedIn cover - 1.png"/>
 
 <hr>
 
