@@ -37,4 +37,4 @@
 
 
 ## Entre em contato:
-**Confira meu [Linkedln](linkedin.com/in/pedrofreelas)**
+**Confira meu [Linkedln](linkedin.com/in/pedrocnovaes)**
