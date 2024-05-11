@@ -22,7 +22,7 @@
 **Eu sou desenvolvedor back-end, apaixonado por códigos e matemática e estou cursando Ciências da computação.**
 
 - 🧠 **Gosto de aprender e me jogar em novas aventuras.**
-- ✍🏾**Desenvolvedor Back-end:** `Java`  `JavaScrip`  `Python`  `Figma` 
+- ✍🏾**Desenvolvedor Back-end:** `Java` `Python` `Figma` `git`
 - 💼 **Em busca de meu primeiro estágio.**
 - 💻 **Em busca de conhecer pessoas da área e trocar conhecimento**
 - **gosto de animes, carros e futebol**
