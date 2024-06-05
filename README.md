@@ -37,4 +37,4 @@
 
 
 ## Entre em contato:
-**Confira meu [Linkedln](linkedin.com/in/pedrocnovaes)**
+**Confira meu [Linkedln](https://www.linkedin.com/in/pedrocnovaes)**
