@@ -15,7 +15,7 @@
 
 ## Minhas Hablidades:
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,figma,vscode,idea,eclipse,discord,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,python,java,figma,vscode,idea,eclipse,discord,git,github&theme=dark" />
 
 ## Sobre mim:
 
