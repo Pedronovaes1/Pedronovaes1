@@ -19,10 +19,10 @@
 
 ## Sobre mim:
 
-**Eu sou desenvolvedor back-end, apaixonado por códigos e matemática e estou cursando Ciências da computação.**
+**Eu sou desenvolvedor, apaixonado por códigos e matemática e estou cursando Ciências da computação.**
 
 - 🧠 **Gosto de aprender e me jogar em novas aventuras.**
-- ✍🏾**Desenvolvedor Back-end:** `Java` `Python` `Figma` `git`
+- ✍🏾**Desenvolvedor:** `Java` `Python` `Figma` `git` `React` `Docker`
 - 💼 **Em busca de meu primeiro estágio.**
 - 💻 **Em busca de conhecer pessoas da área e trocar conhecimento**
 - **gosto de animes, carros e futebol**
@@ -31,6 +31,7 @@
 - **Programação**
 - **Matemática avançada**
 - **Domínio do figma**
+- **Conhecimento em Docker**
 - **Conhecimento do Pacote Office**
 - **Notion**
 - **IntelliJ Idea, VS code, Eclipse, Pycharm**
